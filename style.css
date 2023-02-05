@@ -1,0 +1,34 @@
+.container{
+    margin:0 auto;
+    border: #DC9E82 solid 3px;
+    width:40%;
+    font-size:2rem; 
+    font-weight: 800;
+    background-color: #C16E70;
+    border-radius: 0.49rem;
+     /* display: flex;
+    flex-direction: column;
+    justify-content: space-evenly; */
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+}
+body{
+    font-family: 'Jost', sans-serif;
+    color: #030027;
+}
+.NoRow{
+    display: flex;
+    padding-top: 0.55rem;
+    padding-bottom: 0.55rem;
+    /* border: #bbb solid 3px; */
+    justify-content: space-evenly;
+}
+.digit{
+    border: #151E3F solid 3px;  
+    padding-right:1em;
+    padding-left:1em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    border-radius: 0.49rem;
+    background-color: #F2F3D9;
+}
